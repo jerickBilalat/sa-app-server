@@ -1,8 +1,7 @@
 /* eslint-disable prettier/prettier */
 module.exports = {
   tabWidth: 2,
-  semi: true,
+  semi: false,
   singleQuote: true,
-  trailingComma: 'es5',
-  noSemi: true
-};
+  trailingComma: 'es5'
+}

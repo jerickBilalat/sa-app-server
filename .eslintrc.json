@@ -13,5 +13,9 @@
   "parserOptions": {
     "ecmaVersion": 2018
   },
-  "rules": { "prettier/prettier": "error", "comma-dangle": ["error", "never"] }
+  "rules": {
+    "prettier/prettier": "error",
+    "comma-dangle": ["error", "never"],
+    "semi": ["error", "never"]
+  }
 }
