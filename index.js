@@ -18,5 +18,6 @@ app.listen(PORT, () => {
         'config-test-value',
       )}`,
     )
+    console.log('testing ci workflow')
   }
 })
